@@ -1,0 +1,2 @@
+# assets
+snuailab asset repo
